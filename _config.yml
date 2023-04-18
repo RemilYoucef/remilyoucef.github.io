@@ -71,13 +71,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: RemilYoucef
+github_username: # RemilYoucef
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: yremil
-telegram_username: iamyoucefremil
-scholar_userid: c6fxfX7WNHEC&hl=fr&oi=ao
+telegram_username: # iamyoucefremil
+scholar_userid: # c6fxfX7WNHEC&hl=fr&oi=ao
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -98,10 +98,10 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: youcef_remil
-facebook_id: youcef.remil
+instagram_id: # youcef_remil
+facebook_id: # youcef.remil
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-discord_id: 852306321431592960
+discord_id: # 852306321431592960
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
