@@ -13,14 +13,11 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Computer Science graduate 🎓 from [Ecole Nationale Supérieure d'Informatique (ESI ex.INI)](https://www.esi.dz/) 🏛, with an Engineering and Research Master's degree 💻. Currently, I am pursuing my Ph.D at INSA Lyon in collaboration with Infologic company. My research work focuses on developing an AIOps-enabled framework for Explainable Predictive Maintenance 📝. My profound interest lies in the fields of Machine Learning and Data Mining, and I am adept at comprehending, preparing, analyzing and mining data 📉. I possess an innate passion for tackling complex problems and enjoy applying my expertise in Algorithms, Data Structures, and Mathematical Problem-Solving 💡. As an inquisitive individual with an unwavering passion for technology and innovation, I am wholeheartedly committed to the contribution of research areas such as Machine Learning, Data Mining, Software Analytics, and Explainable AI 👨🏻‍💻. My unrelenting pursuit of intellectual discovery and problem-solving fuels my drive to continuously explore new frontiers in these fields, leveraging cutting-edge tools and techniques to drive groundbreaking possible innovation 🚀.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
