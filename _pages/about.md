@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Greetings 👋, I'm [Youcef Remil](https://github.com/RemilYoucef/), a Data Science Ph.D candidate [@INSA-Lyon](https://www.insa-lyon.fr/) | Research Scientist [@Infologic](https://www.infologic-copilote.fr/)
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: prof_pic.png
+  image_circular: true # crops the image to make it circular
+
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
