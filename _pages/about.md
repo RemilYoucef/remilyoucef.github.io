@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Greetings 👋, I'm [Youcef Remil](https://github.com/RemilYoucef/), a Data Science Ph.D candidate [@INSA-Lyon](https://www.insa-lyon.fr/) | Research Scientist [@Infologic](https://www.infologic-copilote.fr/)
+subtitle: Greetings 👋, I'm <a href='https://github.com/RemilYoucef/'>Youcef Remil</a>, a Data Science Ph.D candidate <a href='https://www.insa-lyon.fr/'>@INSA-Lyon</a> | Research Scientist <a href='https://www.infologic-copilote.fr/'>@Infologic</a>
 
 profile:
   align: right
